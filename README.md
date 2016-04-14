@@ -1,2 +1,5 @@
 # hello-world
-Just hello
+
+Hi,
+
+It my first repo on GitHub.
