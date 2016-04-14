@@ -2,4 +2,4 @@
 
 Hi,
 
-It my first repo on GitHub.
+It's my first repo on GitHub.
